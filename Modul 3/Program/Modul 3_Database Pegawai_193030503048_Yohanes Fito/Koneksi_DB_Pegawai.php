@@ -1,4 +1,4 @@
-//Database ini menggunakan inputan dalam, bukan inputan user
+
 <?php
         $servername ="localhost";
         $username   ="root";
