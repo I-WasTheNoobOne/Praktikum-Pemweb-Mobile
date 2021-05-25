@@ -16,4 +16,4 @@
    membahas tentang langkah-langkah melakukan instalasi React Native.
 
 6. Modul 6 
-   membahas tentang cara membuat Searching di React Native.
+   membahas tentang cara membuat Searching Flatlist di React Native.
